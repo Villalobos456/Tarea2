@@ -1,0 +1,140 @@
+.main {
+    background-color: aqua;
+    width: 650px;
+    height: 650px;
+}
+.rojo {
+    background-color: rgb(138, 36, 36);
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 50px;
+    left: 100px;
+    border-radius: 50%;
+}
+.amarillo {
+    background-color: brown;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    top: 100px;
+    left: 150px;
+    border-radius: 50%;
+}
+.verde {
+    background-color: brown;
+    width: 250px;
+    height: 250px;
+    position: fixed;
+    top: 230px;
+    left: 100px;
+    border-radius: 50%;
+}
+.morado {
+    background-color: rgb(138, 36, 36);
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 50px;
+    left: 250px;
+    border-radius: 50%;
+}
+.naranja {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    top: 75px;
+    left: 125px;
+    border-radius: 50%;
+}
+.naranja2 {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    top: 75px;
+    left: 280px;
+    border-radius: 50%;
+}
+.o1 {
+    background-color: lightslategray;
+    height: 30px;
+    width: 30px;
+    position: fixed;
+    top: 130px;
+    left: 180px;
+    border-radius: 50%;
+}
+.o2 {
+    background-color: lightslategray;
+    height: 30px;
+    width: 30px;
+    position: fixed;
+    top: 130px;
+    left: 250px;
+    border-radius: 50%;
+}
+.o3 {
+    background-color: sienna;
+    height: 20px;
+    width: 60px;
+    position: fixed;
+    top: 200px;
+    left: 195px;
+    border-radius: 50%;
+}
+.o4 {
+    background-color: lightslategrey;
+    height: 10px;
+    width: 10px;
+    position: fixed;
+    top: 170px;
+    left: 220px;
+    border-radius: 50%;
+}
+.verdecito {
+    background-color: white;
+    width: 180px;
+    height: 180px;
+    position: fixed;
+    top: 270px;
+    left: 135px;
+    border-radius: 50%;
+}
+.p1 {
+    background-color: brown;
+    width: 100px;
+    height: 40px;
+    position: fixed;
+    top: 270px;
+    left: 50px;
+    border-radius: 50%;
+}
+.p2 {
+    background-color: brown;
+    width: 100px;
+    height: 40px;
+    position: fixed;
+    top: 270px;
+    left: 300px;
+    border-radius: 50%;
+}
+.p3 {
+    background-color: brown;
+    width: 100px;
+    height: 70px;
+    position: fixed;
+    top: 450px;
+    left: 250px;
+    border-radius: 50%;
+}
+.p4 {
+    background-color: brown;
+    width: 100px;
+    height: 70px;
+    position: fixed;
+    top: 450px;
+    left: 100px;
+    border-radius: 50%;
+}
